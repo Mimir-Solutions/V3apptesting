@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www.nfyapp.com/static/css/main.e09fa8ee.chunk.css",
+    "main.js": "/www.nfyapp.com/static/js/main.2a005670.chunk.js",
+    "main.js.map": "/www.nfyapp.com/static/js/main.2a005670.chunk.js.map",
+    "runtime-main.js": "/www.nfyapp.com/static/js/runtime-main.1a18cbc3.js",
+    "runtime-main.js.map": "/www.nfyapp.com/static/js/runtime-main.1a18cbc3.js.map",
+    "static/js/2.347203a7.chunk.js": "/www.nfyapp.com/static/js/2.347203a7.chunk.js",
+    "static/js/2.347203a7.chunk.js.map": "/www.nfyapp.com/static/js/2.347203a7.chunk.js.map",
+    "static/js/3.bee0a476.chunk.js": "/www.nfyapp.com/static/js/3.bee0a476.chunk.js",
+    "static/js/3.bee0a476.chunk.js.map": "/www.nfyapp.com/static/js/3.bee0a476.chunk.js.map",
+    "index.html": "/www.nfyapp.com/index.html",
+    "static/css/main.e09fa8ee.chunk.css.map": "/www.nfyapp.com/static/css/main.e09fa8ee.chunk.css.map",
+    "static/js/2.347203a7.chunk.js.LICENSE.txt": "/www.nfyapp.com/static/js/2.347203a7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/www.nfyapp.com/static/media/pantheon.e515f331.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a18cbc3.js",
+    "static/js/2.347203a7.chunk.js",
+    "static/css/main.e09fa8ee.chunk.css",
+    "static/js/main.2a005670.chunk.js"
+  ]
+}
