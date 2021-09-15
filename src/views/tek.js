@@ -11,7 +11,7 @@ function Tek() {
         color: '#0000f',
     }}
 >
-    ESKRANO ADD YOUR TRANSFER CODE HERE
+    ESKRANO ADD YOUR TRANSFER CODE HERE PLEASE.
 </Typography>
 }
 
